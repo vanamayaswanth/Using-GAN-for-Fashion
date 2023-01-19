@@ -1,4 +1,4 @@
-Vanama Yaswanth
+
 
  # GAN Dresses
 Welcome to the GAN Dresses project! This is a group project for an undergraduate major project, in which we aim to use generative adversarial networks (GANs) in artificial intelligence (AI) to create new and unique dresses.
